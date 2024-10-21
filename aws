@@ -1,0 +1,4 @@
+git remote add orgin url
+git remote -v
+git push -u origin branch neame
+
