@@ -1,4 +1,6 @@
 git remote add orgin url
 git remote -v
 git push -u origin branch neame
+t init 
+git checkout -b branch-name
 
