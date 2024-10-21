@@ -4,3 +4,7 @@ git push -u origin branch neame
 t init 
 git checkout -b branch-name
 
+
+hello
+welcome
+
